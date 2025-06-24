@@ -34,6 +34,7 @@ Share.cs：共用資料靜態類別
 
 ##程式碼檢視
 若只要檢視程式碼，請直接點選.cs檔即可預覽。
+![image](https://github.com/user-attachments/assets/d40da0f4-eac3-43a4-a181-e52dddd5093a)
 
 ##專案下載
 若想下載完整專案，可下載.zip檔，開啟其中的 .sln檔，並於 Visual Studio 中開啟。
